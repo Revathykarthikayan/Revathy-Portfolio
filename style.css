@@ -41,6 +41,16 @@ nav ul li a:hover {
     background: #444;
 }
 
+
+.cont {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+    background: #fff;
+    margin-bottom: 20px;
+}
+
 .container {
     width: 80%;
     margin: auto;
