@@ -1,3 +1,4 @@
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -7,8 +8,8 @@ body {
 }
 
 header {
-    background: #333;
-    color: #fff;
+    background:antiquewhite;
+    color: burlywood;
     padding: 20px 0;
     text-align: center;
 }
@@ -21,7 +22,7 @@ nav ul {
     display: flex;
     justify-content: center;
     list-style: none;
-    background: #555;
+    background:coral;
     margin: 0;
     padding: 0;
 }
